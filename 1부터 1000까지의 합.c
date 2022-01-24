@@ -11,3 +11,5 @@ int main(void)
 	printf("1���� 1000������ ���� %d�Դϴ�", sum);
 	return 0 ;
 }
+
+// 테스트
